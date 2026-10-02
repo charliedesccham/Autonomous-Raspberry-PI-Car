@@ -23,7 +23,7 @@ https://youtu.be/WJqAy8MjAcs
 - Python
 
 ## Development Setup
-Developed via SSH from a laptop into the Raspberry PI, using VS COde's Remote-SSH extension to edit and run code directly on the PI.
+Developed via SSH from a laptop into the Raspberry PI, using VS Code's Remote-SSH extension to edit and run code directly on the PI.
 
 ## Challenges
 - Fusion 360 design procsses
