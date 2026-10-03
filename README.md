@@ -6,7 +6,7 @@ This is a Raspberry Pi controlled car that uses real time object avoidance to av
 https://youtu.be/WJqAy8MjAcs
 
 
-## How it wokrs
+## How it works
 - The car uses a single ultrasonic sensor to gather the data in front of it. When it senses it is too close to an object it runs a function checking how much distance is on its left and right. It then compares the distance and procedes to choose the way with more free space.
 - Steering is controlled by a servo with a custom designed steering rack.
 - Moves via two micro dc gear motors in the rear
